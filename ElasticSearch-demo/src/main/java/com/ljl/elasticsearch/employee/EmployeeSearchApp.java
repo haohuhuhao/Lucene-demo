@@ -28,7 +28,7 @@ public class EmployeeSearchApp {
 				.addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("localhost"), 9300)); 
 		
 		prepareData(client);
-//		executeSearch(client);
+		executeSearch(client);
 		
 		client.close();
 	

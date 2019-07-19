@@ -29,7 +29,7 @@ public class EmployeeCRUDApp {
 		TransportClient client = new PreBuiltTransportClient(settings)
 				.addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("localhost"), 9300));
 		
-//		createEmployee(client); 
+		createEmployee(client); 
 //		getEmployee(client);
 //		updateEmployee(client); 
 //		deleteEmployee(client); 
