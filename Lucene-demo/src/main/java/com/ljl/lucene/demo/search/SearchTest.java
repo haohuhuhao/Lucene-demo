@@ -1,4 +1,4 @@
-package com.alen.lucene.demo.search;
+package com.ljl.lucene.demo.search;
 
 
 import java.nio.file.Paths;

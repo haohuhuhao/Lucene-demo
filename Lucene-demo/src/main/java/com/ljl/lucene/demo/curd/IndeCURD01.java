@@ -1,4 +1,4 @@
-package com.alen.lucene.demo.curd;
+package com.ljl.lucene.demo.curd;
 
 import java.nio.file.Paths;
 

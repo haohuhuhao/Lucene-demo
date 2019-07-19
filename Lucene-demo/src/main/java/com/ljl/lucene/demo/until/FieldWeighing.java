@@ -1,4 +1,4 @@
-package com.alen.lucene.demo.until;
+package com.ljl.lucene.demo.until;
 
 import java.nio.file.Paths;
 

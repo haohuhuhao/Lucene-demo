@@ -1,4 +1,4 @@
-package com.alen.lucene;
+package com.ljl.lucene;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

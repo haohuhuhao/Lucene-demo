@@ -1,4 +1,4 @@
-package com.alen.lucene.demo.constants;
+package com.ljl.lucene.demo.constants;
 
 /**
  * 枚举值

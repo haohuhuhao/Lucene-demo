@@ -1,4 +1,4 @@
-package com.alen.lucene.demo.curd;
+package com.ljl.lucene.demo.curd;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;

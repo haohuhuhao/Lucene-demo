@@ -1,4 +1,4 @@
-package com.alen.lucene.demo.filter;
+package com.ljl.lucene.demo.filter;
 
 import javax.swing.filechooser.FileFilter;
 import java.io.File;
